@@ -11,6 +11,4 @@ This contains the new item scheme. It is also found in this wiki: https://pardee
 All data processing scripts are in Python under the Jupyter Notebook. 
 FAO Trade.ipynb contains the script to complete the aggregation for both crop and meat and export/import quantity and value. Simply # out the item codes you are not using (ie # out crop related lines in order to agreggate meat. 
 
-FAO GDP Trade.ipynb contains the script for 
-
-If you wish to bypass the IFs interface, FAO Trade Bypass.ipynb does this for you. 
+Once you have the Excel sheets you can use the IFs interface to input it into .db. 
